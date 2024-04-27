@@ -13,3 +13,7 @@ It's only needed for users that have difficulty logging in to their AnkiPro acco
 4. Go to _Tools > Copycat Importer > Import from AnkiPro_.
 5. Paste the login token to the text field.
 6. Click Import
+
+## Download
+
+Download the extension from the Chrome web store: https://chromewebstore.google.com/detail/ankipro-export-helper/ghmmlnlfpghgbecgkiananhlbfakmcpd
